@@ -1,5 +1,7 @@
 import mysql.connector
 import streamlit as st
+import pandas as pd
+from numpy.random import default_rng as rng
 
 connection = mysql.connector.connect(
     host='localhost', 
@@ -16,7 +18,7 @@ ev_data = cursor.fetchall()
 
 seoul = ev_data[0]
 busan = ev_data[1]
-deagu = ev_data[2]
+daegu = ev_data[2]
 incheon = ev_data[3]
 gwangju = ev_data[4]
 daejeon = ev_data[5]
@@ -32,9 +34,9 @@ jeju = ev_data[14]
 gangwon = ev_data[15]
 jeonbuk = ev_data[16]
 
+print(seoul)
+
 cursor.close()
 connection.close()
 
-st.title('전국 지역별 전기차 등록 현황')
-
-table = 
+print(seoul[2])
