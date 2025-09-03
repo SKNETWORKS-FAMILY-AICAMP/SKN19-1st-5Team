@@ -95,6 +95,10 @@ rename table ev_data_sum to ev_data;
 
 select * from ev_data;
 
+ALTER TABLE ev_data ADD PRIMARY KEY (city_code);
+
+SHOW CREATE TABLE ev_data;
+
 
 
 

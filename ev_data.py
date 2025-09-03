@@ -36,3 +36,5 @@ cursor.close()
 connection.close()
 
 st.title('전국 지역별 전기차 등록 현황')
+
+table = 
