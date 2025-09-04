@@ -39,7 +39,7 @@
 
 ---
 ## 👜ERD
-![initial](https://github.com/user-attachments/assets/de0877ac-404b-47bd-a526-510310d02f46)
+<img width="775" height="685" alt="Image" src="https://github.com/user-attachments/assets/1c067a30-e691-449f-ab45-5cf6854b2976" />
 
 
 ---
