@@ -39,12 +39,11 @@
 
 ---
 ## 👜ERD
-<img width="775" height="685" alt="Image" src="https://github.com/user-attachments/assets/1c067a30-e691-449f-ab45-5cf6854b2976" />
-
+<img width="799" height="422" alt="Image" src="https://github.com/user-attachments/assets/00753442-3676-4da0-bff9-7e462ab2a08b" />
 
 ---
 ## ✅ WBS
-<img width="748" height="712" alt="Image" src="https://github.com/user-attachments/assets/46235984-e31e-445d-9a76-76533d001a95" />
+<img width="775" height="685" alt="Image" src="https://github.com/user-attachments/assets/1c067a30-e691-449f-ab45-5cf6854b2976" />
 
 
 ---
