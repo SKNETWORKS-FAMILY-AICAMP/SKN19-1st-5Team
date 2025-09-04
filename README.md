@@ -37,9 +37,9 @@ SKN19-1st-5Team/
 ├── back/
 |	└── chargerdb.sql          # 전체 db
 |	└── evdata_chargerdb.sql   # 전기차 등록 현황 db  
-|	└── data.csv               # 전기차 등록 현황 csv
-|	└── chargers_map.csv       # 지도 위도 경도 csv
-|	└── chargers.csv           # 충전소 현황 csv
+|	└── data.csv               # 전기차 등록 현황 수집 데이터 csv
+|	└── chargers_map.csv       # 지도 위도 경도 수집 데이터 csv
+|	└── chargers.csv           # 충전소 현황 수집 데이터 csv
 |	└── chargers_fixed.csv     # 충전소 위도 경도 데이터 수정
 |	└── charger_analysis.csv   # 급속, 완속 충전 비교
 ├── .env                      
