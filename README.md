@@ -25,22 +25,22 @@ SKN19-1st-5Team/
 ├── front/
 |	└── main.py           
 |	└── pages/   
-│		├── 01_chart.py    # 지역별 전기차 등록 현황        
-│		├── 02_analysis.py    # 지역별 전기차 등록 대수 대비 충전소 현황   
-│		├── 03_map     # 실제 지도에 지역별 전기차 충전소 표시
+│		├── 01_chart.py          # 지역별 전기차 등록 현황        
+│		├── 02_analysis.py       # 지역별 전기차 등록 대수 대비 충전소 현황   
+│		├── 03_map               # 실제 지도에 지역별 전기차 충전소 표시
 │		└── 04_전기차 충전 FAQ
 ├── data/
-|	└── charger_data.py    # 충전소 db 파이썬 추출              
-|	└── ev_data.py    # 전기차 등록 db 파이썬 추출    	  
-|	└── map_data.py    # 충전소 위도, 경도 정보
+|	└── charger_data.py        # 충전소 db 코드 추출              
+|	└── ev_data.py             # 전기차 등록 db 코드 추출    	  
+|	└── map_data.py            # 충전소 위도, 경도 정보 코드 추출
 ├── back/
-|	└── chargerdb.sql   # 전체 db
-|	└── evdata_chargerdb.sql    # 전기차 db  
-|	└── data.csv	# 전기차 등록 csv
-|	└── chargers_map.csv    # 지도 위도 경도 csv
-|	└── chargers.csv    # 충전소 csv
-|	└── chargers_fixed.csv    # 충전소 위도 경도 데이터 수정
-|	└── charger_analysis.csv    # 급속, 완속 충전 비교
+|	└── chargerdb.sql          # 전체 db
+|	└── evdata_chargerdb.sql   # 전기차 등록 현황 db  
+|	└── data.csv               # 전기차 등록 현황 csv
+|	└── chargers_map.csv       # 지도 위도 경도 csv
+|	└── chargers.csv           # 충전소 현황 csv
+|	└── chargers_fixed.csv     # 충전소 위도 경도 데이터 수정
+|	└── charger_analysis.csv   # 급속, 완속 충전 비교
 ├── .env                      
 ├── .gitignore       
 ├── requirements.txt        
