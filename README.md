@@ -29,6 +29,9 @@
 - **웹 페이지 제작** : Streamlit
 - **데이터베이스** : MySQL
 
+## ✅ WBS
+<img width="748" height="712" alt="Image" src="https://github.com/user-attachments/assets/46235984-e31e-445d-9a76-76533d001a95" />
+
 ## 🔫트러블슈팅
 - **API 호출 시 트래픽 차단 현상**
   - 최대한 적은 호출수로 많은 양을 추출하도록 코드 조정
