@@ -1,13 +1,9 @@
 # 🪫찌릿 Chill IT
 전기 자동차 충전소 정보 조회 시스템
 
-
-| **배상준** | **이상혁** | **장효정** | **왕혁준** |
+| **배상준** <br> <a href="https://github.com/windy"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **이상혁** <br> <a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **장효정** <br> <a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **왕혁준** <br> <a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> |
 |------------|------------|------------|------------|
-| <a href="https://github.com/windy"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email1@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> | 
-<a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email2@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
-<a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email3@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
-<a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email4@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
+
 
 
 ## 📜프로젝트 개요
