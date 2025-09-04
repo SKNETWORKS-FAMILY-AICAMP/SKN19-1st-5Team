@@ -88,31 +88,44 @@ SKN19-1st-5Team/
 
 ---
 # 6. 실행 결과
+
+## 6-1)
 ![Image](https://github.com/user-attachments/assets/5b17d058-e1a9-459d-b118-6df2ced732c8)
 
 ![Image](https://github.com/user-attachments/assets/8166f59d-4706-42fe-865d-f6c26a0349d4)
 
 main(Home)화면, 다른 페이지로 이동 가능. 전기차 관련 정보 제공을 위한 뉴스 삽입.
 
+## 6-2)
+
 ![Image](https://github.com/user-attachments/assets/21aa2b28-a2d0-47f8-8f8d-52561db4f6e2)
 
 전국 전기차 등록 지역별 현황 그래프. 지역들 간의 차이가 커 비율로 비교한 막대 그래프.
+
+## 6-3)
 
 ![Image](https://github.com/user-attachments/assets/cad211e9-f996-4549-8396-43031e98d1e5)
 
 전국 전기차 충전소 지역별 현황 그래프.
 
+## 6-4)
 ![Image](https://github.com/user-attachments/assets/1a9d5e2d-84be-4884-89af-ef4c4e6f5dfb)
 
 원하는 지역을 선택하여 그 지역의 전기차와 충전소 수를 비교할 수 있는 그래프.
+
+## 6-5)
 
 ![Image](https://github.com/user-attachments/assets/00199d05-d03b-4f8a-9cbf-fa06781dc079)
 
 전기차 등록 대비 충전소 비율을 나타낸 꺾은선 그래프.
 
+## 6-6)
+
 ![Image](https://github.com/user-attachments/assets/6c6a46e9-72fb-4bdc-b15e-39f6aebbdc42)
 
 전기차 충전기 타입, 제공 기관에 대한 비교 분석 표.
+
+## 6-7)
 
 ![Image](https://github.com/user-attachments/assets/3741362e-15b4-480b-ae4e-64472bd408dd)
 
@@ -120,13 +133,19 @@ main(Home)화면, 다른 페이지로 이동 가능. 전기차 관련 정보 제
 
 충전기 타입, 제공 기관을 비교할 수 있도록 나타낸 그래프
 
+## 6-8)
+
 ![Image](https://github.com/user-attachments/assets/11a187ed-cfd6-4235-8f32-a11c1cb1412a)
 
 전국 충전소 위치 지도
 
+## 6-9)
+
 ![Image](https://github.com/user-attachments/assets/d9068fe6-82fd-4e63-85eb-15657983dfca)
 
 원하는 지역별 충전소 위치 지도
+
+## 6-10)
 
 ![Image](https://github.com/user-attachments/assets/65acc852-34a8-4451-9b0c-47c9e7351c5e)
 
