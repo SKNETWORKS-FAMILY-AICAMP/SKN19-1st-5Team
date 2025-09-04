@@ -1,4 +1,4 @@
-# 🔋찌릿 Chill IT
+# 🪫찌릿 Chill IT
 
 ## 😄 팀원 소개
 | **배상준** <br> <a href="https://github.com/windyale"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **이상혁** <br> <a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **장효정** <br> <a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **왕혁준** <br> <a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> |
