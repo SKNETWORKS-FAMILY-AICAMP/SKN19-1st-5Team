@@ -2,7 +2,13 @@
 전기 자동차 충전소 정보 조회 시스템
 
 
-| **배상준** | **이상혁** | **장효정** | **왕혁준  **      |
+| **배상준** | **이상혁** | **장효정** | **왕혁준** |
+|------------|------------|------------|------------|
+| <a href="https://github.com/windy"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email1@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> | 
+<a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email2@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
+<a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email3@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
+<a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> <br> <a href="mailto:email4@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> |
+
 
 ## 📜프로젝트 개요
 - 지역별 전기자동차 등록 현황과 전기차 충전소 설치 현황 데이터를 제공
