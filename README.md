@@ -1,26 +1,23 @@
 # 🪫찌릿 Chill IT
-<br>
 
 ## 😄 팀원 소개
 | **배상준** <br> <a href="https://github.com/windyale"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **이상혁** <br> <a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **장효정** <br> <a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **왕혁준** <br> <a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> |
 |------------|------------|------------|------------|
 
-<br>
+
 
 ---
 ## 📜프로젝트 개요
 - 지역별 전기자동차 등록 현황과 전기차 충전소 설치 현황 데이터를 제공
 - 시중 전기자동차 관련 FAQ에서 자주 묻는 질문들을 종합.
 
-<br>
 
----
 ## 🎯주요 목표
 - 지역별 전기자동차 수 대비 충전소 수를 비교할 수 있는 자료를 제공
 - 실제 지도 기반 시각화를 통해 충전소 설치 현황을 한눈에 확인
 - 사용자가 충전소 위치를 쉽게 찾을 수 있도록 위치 정보와 충전소 관련 상세 정보를 제공
 
-<br>
+
 ---
 ## 🔭기반 데이터
 - **전국 전기 차량 등록대수**
@@ -29,14 +26,8 @@
   - 한국환경공단 공공데이터
 - **전기 자동차 관련 FAQ**
   - 기아, PSE EV, 혼다 e-모빌리티, 폴스타
+ 
 
-<br>
- ---
-## 👜ERD
-![initial](https://github.com/user-attachments/assets/de0877ac-404b-47bd-a526-510310d02f46)
-
-<br>
----
 ## 🔨기술 스택
 - **기반 언어** : Python 3.12
   - **웹 크롤링** : BeautifulSoup
@@ -45,13 +36,17 @@
 - **웹 페이지 제작** : Streamlit
 - **데이터베이스** : MySQL
 
-<br>
+
+---
+## 👜ERD
+![initial](https://github.com/user-attachments/assets/de0877ac-404b-47bd-a526-510310d02f46)
+
 
 ---
 ## ✅ WBS
 <img width="748" height="712" alt="Image" src="https://github.com/user-attachments/assets/46235984-e31e-445d-9a76-76533d001a95" />
 
-<br>
+
 ---
 ## 🔫트러블슈팅
 - **API 호출 시 트래픽 차단 현상**
@@ -66,8 +61,7 @@
 - **지도상 충전소 출력 시 엉뚱한 위치에 표시되는 현상**
   - 데이터 정제 과정상 오류로 판단, 위도&경도 데이터와 지역코드가 맞지않는 데이터를 조회하며 찾아 수정
 
-<br>
----
+
 ## 💬프로젝트 회고
 - **팀원1**
   - 비전공자로서, 실력이 부족한데다가, 프로젝트 기간이 짧아서, 버거운 점이 많았다. 많이 도와주신 팀원들께 감사하다.
