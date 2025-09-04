@@ -13,7 +13,7 @@
 ## 📋프로젝트 명
 - 지역별 전기차 등록 현황 및 충전소 현황
 
-## 📜프로젝트 필요성
+## ⭐프로젝트 필요성
 - 전기차 소유자 및 구매 예정자에게 충전소 위치, 충전기 타입 등을 포함한 충전소 정보와 전기차 FAQ 정보를  
   웹 페이지 내에서 한 눈에 볼 수 있도록 하여 정보 습득에 있어 편의성 제고
 
@@ -55,7 +55,15 @@ SKN19-1st-5Team/
 └── README.md
 ```
 
+
 ---
+# 3. 요구사항 명세서
+<img width="755" height="544" alt="Image" src="https://github.com/user-attachments/assets/5a5f75d2-aa52-4708-aaa8-f67c5604295a" />
+
+
+---
+# 4. 데이터 및 기술
+
 ## 🔭기반 데이터
 - **전국 전기 차량 등록대수**
   - 한국교통안전공단 공공데이터
@@ -74,12 +82,12 @@ SKN19-1st-5Team/
 - **데이터베이스** : MySQL
 
 ---
-## 👜ERD
+# 5. ERD
 <img width="799" height="422" alt="Image" src="https://github.com/user-attachments/assets/00753442-3676-4da0-bff9-7e462ab2a08b" />
 
 
 ---
-## 수행 결과
+# 6. 실행 결과
 ![Image](https://github.com/user-attachments/assets/5b17d058-e1a9-459d-b118-6df2ced732c8)
 
 ![Image](https://github.com/user-attachments/assets/8166f59d-4706-42fe-865d-f6c26a0349d4)
@@ -130,11 +138,13 @@ main(Home)화면, 다른 페이지로 이동 가능. 전기차 관련 정보 제
 
 
 ---
-## ✅ WBS
+# 7. ✅ WBS
 <img width="775" height="685" alt="Image" src="https://github.com/user-attachments/assets/1c067a30-e691-449f-ab45-5cf6854b2976" />
 
 
 ---
+# 8. 회고
+
 ## 🔫트러블슈팅
 - **API 호출 시 트래픽 차단 현상**
   - 최대한 적은 호출수로 많은 양을 추출하도록 코드 조정
