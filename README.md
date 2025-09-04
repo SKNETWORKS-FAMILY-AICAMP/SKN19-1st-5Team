@@ -1,4 +1,5 @@
-# 🪫찌릿 Chill IT
+# 1. 팀 소개
+## 🪫찌릿 Chill IT
 
 ## 😄 팀원 소개
 | **배상준** <br> <a href="https://github.com/windyale"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **이상혁** <br> <a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **장효정** <br> <a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **왕혁준** <br> <a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> |
@@ -7,10 +8,16 @@
 
 
 ---
+# 2. 프로젝트 소개
+
+## 📋프로젝트 명
+- 지역별 전기차 등록 현황 및 충전소 현황
+
+## 프로젝트 필요성
+
 ## 📜프로젝트 개요
 - 지역별 전기자동차 등록 현황과 전기차 충전소 설치 현황 데이터를 제공
 - 시중 전기자동차 관련 FAQ에서 자주 묻는 질문들을 종합.
-
 
 ## 🎯주요 목표
 - 지역별 전기자동차 수 대비 충전소 수를 비교할 수 있는 자료를 제공
