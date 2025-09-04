@@ -18,6 +18,7 @@
 - 사용자가 충전소 위치를 쉽게 찾을 수 있도록 위치 정보와 충전소 관련 상세 정보를 제공
 
 
+---
 ## 🗂️프로젝트 구조
 
 ```
@@ -65,10 +66,15 @@ SKN19-1st-5Team/
 - **웹 페이지 제작** : Streamlit
 - **데이터베이스** : MySQL
 
-
 ---
 ## 👜ERD
 <img width="799" height="422" alt="Image" src="https://github.com/user-attachments/assets/00753442-3676-4da0-bff9-7e462ab2a08b" />
+
+
+---
+## 수행 결과
+<img width="1616" height="850" alt="Image" src="https://github.com/user-attachments/assets/3710160e-0e50-4016-810a-29fc63b27cca" />
+
 
 ---
 ## ✅ WBS
