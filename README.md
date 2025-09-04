@@ -1,5 +1,5 @@
 # 1. 팀 소개
-## 🪫찌릿 Chill IT
+## 팀명: 🪫찌릿 Chill IT
 
 ## 😄 팀원 소개
 | **배상준** <br> <a href="https://github.com/windyale"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **이상혁** <br> <a href="https://github.com/sangpiri"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **장효정** <br> <a href="https://github.com/hyojungJ"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> | **왕혁준** <br> <a href="https://github.com/vibevibe26"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a> |
@@ -26,8 +26,6 @@
 - 실제 지도 기반 시각화를 통해 충전소 설치 현황을 한눈에 확인
 - 사용자가 충전소 위치를 쉽게 찾을 수 있도록 위치 정보와 충전소 관련 상세 정보를 제공
 
-
----
 ## 🗂️프로젝트 구조
 
 ```
