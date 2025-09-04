@@ -15,7 +15,7 @@
   - 기아, PSE EV, 혼다 e-모빌리티, 폴스타
  
 ## ERD
-![initial](https://github.com/user-attachments/assets/8dc4adf6-f97a-44f1-a9ab-6e1319246df2)
+![initial](https://github.com/user-attachments/assets/de0877ac-404b-47bd-a526-510310d02f46)
 
 ## 🔨기술 스택
 - **기반 언어** : Python 3.12
