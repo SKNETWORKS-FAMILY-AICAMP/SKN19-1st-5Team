@@ -16,6 +16,10 @@
 ## ⭐프로젝트 필요성
 - 전기차 소유자 및 구매 예정자에게 충전소 위치, 충전기 타입 등을 포함한 충전소 정보와 전기차 FAQ 정보, 최신 뉴스 등을  
   웹 페이지 내에서 한 눈에 볼 수 있도록 하여 정보 습득에 있어 편의성 제고
+  
+<img width="945" height="452" alt="Image" src="https://github.com/user-attachments/assets/875f9769-c400-451c-ab87-83ec9dfee09b" />
+<img width="934" height="333" alt="Image" src="https://github.com/user-attachments/assets/b5f4f3dd-9bb0-4d1e-a90b-62937f7327ee" />
+
 
 ## 📜프로젝트 개요
 - 지역별 전기자동차 등록 현황과 전기차 충전소 설치 현황 데이터를 제공
